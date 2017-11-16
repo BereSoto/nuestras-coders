@@ -1,0 +1,50 @@
+hr {
+    border:2px solid black;
+    width: 6%;
+    margin-left: 0%;
+    margin-top: 0%;
+  }
+
+img {
+    display: inline-block;
+    margin: 5%;
+    margin-top: 20px;
+}
+
+* div {
+    font-family: 'Merriweather', serif;
+    position: relative;
+    color: white;
+    padding-top: 2px;
+
+}
+
+.coder1 {
+    bottom: 430px;
+    left: 140px;
+}
+
+.coder2 {
+    bottom: 450px;
+    left: 490px;
+}
+
+.coder3 {
+    bottom: 470px;
+    left: 850px;
+}
+
+.coder4 {
+    bottom: 170px;
+    left: 160px;
+}
+
+.coder5 {
+    bottom: 190px;
+    left: 530px;
+}
+
+.coder6 {
+    bottom: 210px;
+    left: 850px;
+}
